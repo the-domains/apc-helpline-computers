@@ -1,0 +1,28 @@
+name: APC Helpline Computers
+favicon: null
+layout_spectrum: 0.5138190952129662
+typography_spectrum: 0.22861349838785827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9287726951297373
+  lightness: 0.8215582689736038
+  saturation: 0.774285496911034
+  rhythmicContrast: 0.43552557728253305
+purpose: []
