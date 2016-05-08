@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[APC Helpline Computers]]></title>
+        <description><![CDATA[APC Helpline Computers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 May 2016 11:16:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Windows 10 Now Installed On 300 Million Active Devices: Microsoft Reminds Users Free Upgrade Ends July 29]]></title>
+            <description><![CDATA[<article><h1>Windows 10 Now Installed On 300 Million Active Devices: Microsoft Reminds Users Free Upgrade Ends July 29</h1><p>Latest Tech Tips </p></article>]]></description>
+            <link>undefinedwindows-10-now-installed-on-300-million-active-devices-micr/index.html</link>
+            <guid isPermaLink="false">28950575-607f-4601-93e1-ac9d85c33c6b</guid>
+            <pubDate>Sun, 08 May 2016 11:16:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
